@@ -1,0 +1,7 @@
+{
+  "name": "communaubot-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
